@@ -32,7 +32,7 @@ An "evidence cliff" = the boundary where randomized clinical-outcome evidence en
 
 ## 6. Kidney transplantation
 
-**Frontier:** INFINITI (CJASN online 2025-12-12; PMID 41385300): first double-blind RCT physiology data — GFR dip preserved (−4.2 mL/min/1.73 m² wk 1), natriuresis and BP effects muted, clean 12-wk safety (no rejection, stable tacrolimus).
+**Frontier:** INFINITI (CJASN 2026, online 2025-12-12; PMID 41385300): first double-blind RCT physiology data — GFR dip preserved (−4.2 mL/min/1.73 m² wk 1), natriuresis and BP effects muted, clean 12-wk safety (no rejection, stable tacrolimus).
 **Cliff:** zero randomized clinical-outcome evidence; immunosuppression-related infection concerns (genital mycotic/UTI) not excluded by a 52-patient 12-week trial. Renal Lifecycle transplant stratum (eGFR ≤45) is the pending outcome test.
 
 ## 7. ADPKD

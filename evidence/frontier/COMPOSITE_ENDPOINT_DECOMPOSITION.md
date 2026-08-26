@@ -12,7 +12,7 @@ Result: 15.0% vs 20.1%; HR 0.72 (95% CI 0.55–0.95), P=0.02 — **positive**.
 
 | Component | Dapagliflozin | Standard care | Effect estimate | Drives composite? |
 |---|---|---|---|---|
-| All-cause death | 7.8% (47/620) | 8.9% (55/637) | HR 0.87 (0.59–1.28) | **No** — CI crosses 1 |
+| All-cause death | 47 (7.8%) | 55 (8.9%) | HR 0.87 (0.59–1.28) | **No** — CI crosses 1 |
 | Worsening HF (hosp. or urgent visit) | 9.4% | 14.4% | subHR 0.63 (0.45–0.88) | **Yes — sole significant driver** |
 
 Correct claim: "Dapagliflozin after TAVI reduced the composite of death or worsening HF, driven by worsening-HF events; no significant effect on mortality alone was shown."

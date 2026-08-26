@@ -34,13 +34,13 @@ Status labels: **ongoing** (recruiting/follow-up), **fully recruited**, **result
 - Empagliflozin feasibility RCT (n=50, 1-yr, safety/tolerability primary; Seliger SL et al., DOI 10.1159/000549447, PMID 41505371) — class-relevant, not dapagliflozin; ongoing.
 - Only reported dapagliflozin RCT remains the n=27 crossover (Uchiyama, KI Rep 2025, DOI 10.1016/j.ekir.2025.01.023) — surrogate endpoints.
 
-## 5. Heart-transplant renal protection — NCT05321706 — **ongoing**
+## 5. DAPARHT — NCT05321706 — **active, not recruiting** (registry status verified by methods audit via ClinicalTrials.gov API, 2026-08-27)
 
-- "DAPAgliflozin for Renal Protection in Heart Transplant Recipients" (registry listing; no results publication found in window). Peripheral to the review's core domains; track only.
+- Dapagliflozin for renal protection in **heart-transplant** recipients (Oslo); n≈430; primary endpoint eGFR slope (**surrogate**); primary completion estimated 2028-09-30. Peripheral to the review's core domains; track only.
 
-## 6. SGLT2i effects on kidney function in advanced CKD — NCT06982079 — **ongoing**
+## 6. Dapagliflozin in advanced CKD (eGFR <20, non-dialysis) — NCT06982079 — **recruiting** (registry status verified by methods audit via ClinicalTrials.gov API, 2026-08-27)
 
-- ClinicalTrials.gov listing surfaced in searches (class-level, advanced CKD kidney-function endpoints); no publications yet. Track; verify agent and design against the registry before citing in synthesis.
+- Ain Shams University; dapagliflozin; n≈60; population eGFR <20 mL/min/1.73 m² not on dialysis; endpoints eGFR slope and time to renal replacement therapy; estimated completion 2026-11. Small and surrogate-led — will not resolve the advanced-CKD outcome cliff, but relevant to the eGFR <20 initiation question.
 
 ## 7. Acute-HF space — no further dapagliflozin outcome RCT identified
 
@@ -48,6 +48,4 @@ Status labels: **ongoing** (recruiting/follow-up), **fully recruited**, **result
 
 ---
 
-## Registry-verification caveat
-
-Items 5–6 were identified from search-result registry listings; their recruitment status timestamps were not independently re-pulled from ClinicalTrials.gov at the search end date. Before any of these appear in the durable synthesis, re-verify status on ClinicalTrials.gov (flag for methods auditor).
+Registry details for items 5–6 were re-verified against the ClinicalTrials.gov API by the methods auditor on 2026-08-27 (appraisal/ commit 1f2eafa).

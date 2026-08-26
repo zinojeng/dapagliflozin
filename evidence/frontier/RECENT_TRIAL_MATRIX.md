@@ -63,7 +63,7 @@ Related:
 | Results | All-cause death RR 0.61 (95% CI 0.47–0.81); worsening HF RR 0.67 (0.48–0.94); CV death RR 0.68 (0.47–0.99); HF rehospitalization RR 0.87 (0.70–1.09) — **not significant**. Safety (AKI, hypotension, hypoglycemia, UTI, SAE) comparable |
 | TSA | Firm evidence for mortality reduction; worsening HF not yet firm |
 | Status | Peer-reviewed meta-analysis. **Class-level (SGLT2i), not dapagliflozin-specific**; short follow-up; mortality signal driven partly by smaller open-label trials |
-| Identification note | The Director's brief cited a "2026 HF care-spectrum meta-analysis" without a citation. Two candidates satisfy it: (a) this J Card Fail 2026 TSA meta-analysis; (b) the prespecified hospitalized-HF meta-analysis embedded in the DAPA ACT HF-TIMI 68 Circulation 2025 paper. Both are logged; no separate 2026 "full-care-spectrum" (acute+chronic pooled) dapagliflozin-specific meta-analysis was found by the search end date. If the Director has a specific citation in mind, request it |
+| Identification note | The Director's brief cited a "2026 HF care-spectrum meta-analysis" without a citation. Two candidates satisfy it: (a) this J Card Fail 2026 TSA meta-analysis; (b) the prespecified hospitalized-HF meta-analysis embedded in the DAPA ACT HF-TIMI 68 Circulation 2025 paper. Both are logged; no separate 2026 "full-care-spectrum" (acute+chronic pooled) dapagliflozin-specific meta-analysis was found by the search end date — **confirmed nonexistent by independent methods audit, 2026-08-27** |
 
 Adjacent evidence: pooled DELIVER + EMPEROR-Preserved exploratory analysis in recently hospitalized HFpEF (strict ≤30 d subgroup HR 0.78, 95% CI 0.60–1.03; broad ≤12 mo HR 0.73, 0.59–0.90). Xue X et al. Front Cardiovasc Med 2026. DOI 10.3389/fcvm.2026.1816804. PMID 42205792. [post hoc, exploratory, class-level]
 
@@ -150,10 +150,10 @@ Program context:
 | Design | Mechanistic, randomized, **double-blind**, placebo-controlled; dapagliflozin 10 mg/d vs placebo; 12 weeks; assessments baseline/wk 1/wk 12 |
 | Population | 52 stable kidney transplant recipients >6 months post-transplant (mean age 53; 79% male; 57% T2DM; mean eGFR ≈68) |
 | Primary endpoint [surrogate] | Seated systolic BP |
-| Primary result [RCT-primary][surrogate] | **No significant SBP reduction**: wk 1 −4.4 mmHg (95% CI −10.3 to 1.6, P=0.15); wk 12 −2.9 mmHg (−8.9 to 3.1, P=0.33) |
+| Primary result [RCT-primary][surrogate] | **No significant SBP reduction**: wk 1 −4.4 mmHg (95% CI −10.3 to 1.6, P=0.15); wk 12 −2.9 mmHg (−8.9 to 3.1, P=0.33). Secondary: mean arterial pressure at wk 1 nominally lower with dapagliflozin, −3.9 mmHg (−7.5 to −0.2) [RCT-secondary, per methods-audit extraction 2026-08-27] |
 | Mechanistic findings [mech] | Acute iohexol-measured GFR dip preserved: wk 1 −4.2 (−7.14 to −1.24), wk 12 −3.49 (−6.33 to −0.64) mL/min/1.73 m²; glucosuria and 24-h urine volume increased; natriuresis muted |
 | Safety | No UTI, genital infection, hypoglycemia, volume depletion, AKI, or rejection; tacrolimus levels stable |
-| Publication | Sridhar VS et al. Clin J Am Soc Nephrol, online 2025-12-12. PMID 41385300 |
+| Publication | Sridhar VS et al. Clin J Am Soc Nephrol 2026 (online 2025-12-12). PMID 41385300 |
 | Status | Peer-reviewed publication. **Mechanistic/safety only — provides no clinical-outcome evidence in transplantation** |
 
 ---
