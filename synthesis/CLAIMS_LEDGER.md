@@ -71,7 +71,7 @@ Follow-up｜Design｜Source｜Certainty（高/中/低/極低）｜Applicability�
 - ✅「病人層級預先規劃合併分析顯示跨 EF 死亡率下降」——死亡率主張一律引此，不引 DELIVER 單獨。
 - ❌ 把 class-level（Vaduganathan/SMART-C）數字冠名 dapagliflozin。
 
-### B5. Frailty：相對療效一致、最衰弱層絕對獲益大、KCCQ 改善更大
+### B5. Frailty：相對療效一致；KCCQ 改善之交互作用僅限 PRO（O-17：事件端 p-int 0.40，禁稱「衰弱者臨床效益更大」）
 - Relative：FI class 3 HR 0.74（0.61–0.91）；p-int 0.40；KCCQ p-int 0.021（Butt Circulation 2022, PMID 36029465, prespec）。Certainty：中。
 - Caveat：衰弱者 AE 與停藥整體較多（非藥物特異）——處方難度是實務問題。
 - ✅「衰弱不是不給藥的理由；耐受性管理是重點」
@@ -178,7 +178,7 @@ Follow-up｜Design｜Source｜Certainty（高/中/低/極低）｜Applicability�
 
 ## F. Class-level（引用時必稱「SGLT2i 類別」）
 
-- F1. MACE 效益侷限 ASCVD 層：Zelniker 2019——ASCVD HR 0.86（0.80–0.93）vs 無 ASCVD 1.00（0.87–1.16）, p-int 0.0501。
+- F1. MACE 效益集中於 ASCVD 層（O-4 紅線：p-interaction 0.0501 屬**邊際**、且為類別間接證據——禁稱「已證明僅限次級預防」）：Zelniker 2019——ASCVD HR 0.86（0.80–0.93）vs 無 ASCVD 1.00（0.87–1.16）。
 - F2. 腎病進展 RR 0.63（0.58–0.69）；CV death RR 0.86：SMART-C 2022（13 trials, n=90,409）。
 - F3. HF 五試驗：CV death/HHF 0.77（0.72–0.82）：Vaduganathan 2022。
 - F4. 住院 HF 起始早期效益：embedded meta HR 0.71（0.54–0.93）；J Card Fail 2026 TSA all-cause RR 0.61（0.47–0.81）。

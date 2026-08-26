@@ -35,7 +35,7 @@
 
 ### 2.2 Dapagliflozin 專屬 vs SGLT2i 類別
 - 專屬可主張：DECLARE/DAPA-HF/DELIVER/DAPA-CKD 各自結果；Jhund pooled 跨 EF 死亡率。
-- 只能稱類別：MACE 侷限 ASCVD（Zelniker）；腎病進展 RR 0.63（SMART-C）；HF 五試驗 0.77（Vaduganathan）；住院起始早期效益（embedded meta 0.71；TSA RR 0.61）。
+- 只能稱類別：MACE 效益集中於 ASCVD 層（Zelniker；p-int 0.0501 邊際——勿稱「已證明僅限次級預防」，O-4）；腎病進展 RR 0.63（SMART-C）；HF 五試驗 0.77（Vaduganathan）；住院起始早期效益（embedded meta 0.71；TSA RR 0.61）。
 - KDIGO eGFR ≥20 門檻的證據主體是 EMPA-KIDNEY（類別），dapagliflozin 無 20–25 randomized initiation 資料。
 
 ### 2.3 不可外推區（DAPA-CKD/DAPA-HF/DELIVER 的邊界）
