@@ -45,3 +45,32 @@ Worktree isolation is now possible; all peer commits share this ancestor.
 - dapa-safety-implementation: `evidence/safety/`
 - dapa-methods-auditor: `appraisal/`
 - Director: `synthesis/`, `talk/`, `logs/CROSS_SESSION_LOG.md`
+
+## 2026-08-27 — Remote, first-wave completion, integration
+
+- Director added remote github.com/zinojeng/dapagliflozin (user authorization)
+  and pushed main plus all peer branches.
+- First-wave peer commits, each verified by the Director before acceptance:
+  - frontier `5d49653` (4 files) — accepted pending audit
+  - landmark `380155f` (4 files incl. citation-verification log) — accepted pending audit
+  - safety `d1607f6` (4 files + sources/ with 16 primary regulatory documents) — accepted pending audit
+- Director merged all branches into `main` → `b7322d4`, pushed.
+- READY_FOR_AUDIT sent to dapa-methods-auditor with covering hashes and
+  prioritized peer flags (DECLARE safety-table PMC-reproduction sourcing;
+  DARE-ESKD-2 CI/P discordance; care-spectrum meta identity; ⚠️FT/⚠️TW registers).
+- Director launched five temporary fulltext-fetcher subagents (landmark trials,
+  acute-HF set, MI/TAVI, advanced kidney, guidelines/labels) targeting 原始PDF/
+  with LlamaParse conversion; manifests pending. These are internal temps, not
+  substitute peers.
+
+## 2026-08-27 — Director reading pass and reconciliation items
+
+- All 12 first-wave files read in full by the Director.
+- RECONCILIATION-1 sent to safety: DAPA-HF diabetes proportion — safety matrix
+  wrote 45% without diabetes; Petrie 2020 (PMID 32219386) gives 2,605/4,744 = 55%
+  without diabetes. Correction requested (single cell).
+- Frontier care-spectrum meta-analysis identity: peers found no distinct
+  dapagliflozin-specific DAPA-HF+DELIVER+DAPA ACT HF pooled paper; source-doc
+  claim stays flagged; fetch-acutehf running a targeted search; auditor to adjudicate.
+- Landmark ⚠️FT items (5) await 原始PDF/ full texts; landmark standing by to close
+  them in a follow-up commit.
