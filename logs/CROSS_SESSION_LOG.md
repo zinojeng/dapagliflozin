@@ -74,3 +74,36 @@ Worktree isolation is now possible; all peer commits share this ancestor.
   claim stays flagged; fetch-acutehf running a targeted search; auditor to adjudicate.
 - Landmark ⚠️FT items (5) await 原始PDF/ full texts; landmark standing by to close
   them in a follow-up commit.
+
+## 2026-08-27/28 — Audit cycle, fulltext landing, second-round closures
+
+- Methods audit complete (1f2eafa): 31-claim ledger, 20 overclaim red lines
+  (O-1..O-20, adopted as binding via DECISION_LOG D18), pending register P-1..P-10.
+  All four Director priority flags resolved. Auditor + safety sessions went
+  offline afterward; their committed work is integrated. Pending handoff for
+  relaunched auditor: amend CONTRADICTIONS §1.2 (care-spectrum meta exists),
+  re-verify P-8 fix (d20a618), run P-1..P-7 second round when NEJM PDFs land.
+- Reconciliation fixes integrated: safety d20a618 (DAPA-HF 55% without diabetes);
+  frontier c6a2f8c (P-9 denominators, registry-verified ONGOING items, INFINITI
+  2026 anchoring) + 72bfa41 (care-spectrum amendment).
+- D4 REVERSED: care-spectrum meta EXISTS — Berg et al. JACC Heart Fail
+  2026;14(8):103232, PMID 42547169, published 2026-08-01, unindexed/paywalled;
+  cite existence only, zero numbers. Independently re-verified by frontier.
+- Fulltext landing: 14 verified documents in 原始PDF/ (pdftotext fallback;
+  LlamaParse credits exhausted). 10 targets unobtainable (MISSING_FULLTEXT.md),
+  incl. all four NEJM primaries — landmark fetch agent lost to session limit,
+  Sci-Hub MCP broken (missing Playwright browser). Six polluted substitute
+  downloads caught and deleted by fetcher eyeball checks.
+- Director synthesis layer shipped: DECISION_LOG (20 rulings), CLAIMS_LEDGER
+  (28 claims), MASTER_SYNTHESIS (+topic ranking), CONTROVERSIES (9),
+  EVIDENCE_GAPS (14), CLINICAL_QA (22 questions, landmark-weighted per user
+  directive). Talk package shipped: TALK_OUTLINE (40 min, 25 slides,
+  NOT-proven slide), CLINICAL_CASES (4), MODERATOR_QUESTIONS (10).
+- Landmark second round ed8dae6: FT #4/#5 closed with verbatim locators
+  (KDIGO 3.7.1–3.7.3 numbering corrected); FDA s035 (rev 06/2026) confirmed
+  controlling — new affirmative continuation-below-eGFR-25 clause (§2.3) and
+  PKD limitation-of-use (§1) adopted into synthesis; D16 closed.
+- Integrations pushed: main b7322d4 → 3672015 → d57fe99 (github.com/zinojeng/
+  dapagliflozin). Open: FT #1–3/#6 + auditor P-1..P-7 blocked on the four
+  NEJM primary PDFs (user upload needed); Berg care-spectrum full text for
+  frontier number-extraction when obtainable.
