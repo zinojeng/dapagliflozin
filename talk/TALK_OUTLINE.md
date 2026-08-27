@@ -199,7 +199,7 @@
 - **US FDA 仿單**：非降糖適應症 **eGFR <25 不建議起始** [GL§1.1]
 - **EMA SmPC**：**eGFR <15 不建議起始**；<25 屬「limited experience」 [GL§1.2]
 - **關鍵事實**：KDIGO ≥20 的證據主體是 **EMPA-KIDNEY（class-level）**；**dapagliflozin 沒有 eGFR 20–25 的隨機起始資料**；DAPA-CKD stage 4 次族群主要終點降低 27%（95% CI **−2 至 47**），**CI 跨越無效線**，p-interaction 0.22 `[ledger:C4]`[CONTROVERSIES C2]
-- **裁定措辭（C2）**：「eGFR 22 的病人是 **shared-decision 地帶**」——並且必須區分「**起始**」與「**續用**」（KDIGO practice point：已使用者可續用至透析或移植）[GL§2.1]
+- **裁定措辭（C2）**：「eGFR 22 的病人是 **shared-decision 地帶**」——並且必須區分「**起始**」與「**續用**」：續用 <25 已有 US 仿單 rev 06/2026 §2.3 **肯定性條款**支持；<20 續用至透析或移植為 KDIGO practice point [GL§2.1]（DECISION_LOG D16）
 - ⚠️TW 台灣給付面：NHI CKD 適應症條件為 **eGFR 25–60＋uACR 200–5000＋整合照護方案收案；eGFR <15 停止給付**（114/3/1 版本）——**給付 ≠ 適應症 ≠ 實證邊界，三層必須分開講**；引用時點須再獨立查證 [SF§13]（DECISION_LOG D3；EVIDENCE_GAPS G13）
 - 🎤 講者提示：這張要慢——大部分聽眾以為「指引說可以就是仿單說可以」。
 
