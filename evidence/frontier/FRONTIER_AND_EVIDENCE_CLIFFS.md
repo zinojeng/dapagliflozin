@@ -13,7 +13,7 @@ An "evidence cliff" = the boundary where randomized clinical-outcome evidence en
 ## 2. Acute HF — in-hospital initiation
 
 **Frontier:** DAPA ACT HF-TIMI 68 (Circulation 2025; DOI 10.1161/CIRCULATIONAHA.125.076575) — the dedicated dapagliflozin trial was **neutral on its primary** (HR 0.86, 0.68–1.08, P=0.20) over a 2-month window; safety of in-hospital initiation confirmed (hypotension 3.6% vs 2.2%; worsening kidney function 5.9% vs 4.7%). Class-level meta-analyses (embedded prespecified meta: CV death/worsening HF HR 0.71, 0.54–0.93; J Card Fail 2026 TSA meta: all-cause death RR 0.61, 0.47–0.81, TSA-firm) support early initiation as a class.
-**Cliff:** (a) no *dapagliflozin-specific* proof of early-initiation outcome benefit — the evidence is class-extrapolated; (b) ≤2-month follow-up in all in-hospital trials; (c) cardiogenic shock/inotrope-dependent, and critically ill patients excluded; (d) optimal timing (first 24 h vs stabilized) still undefined — DICTATE-AHF (24-h initiation) missed its primary diuretic-efficiency endpoint (OR 0.65, 0.41–1.02, P=0.06; JACC 2024; DOI 10.1016/j.jacc.2024.02.009).
+**Cliff:** (a) no *dapagliflozin-specific* proof of early-initiation outcome benefit — the evidence is class-extrapolated (a dapagliflozin-specific care-spectrum meta-analysis of DAPA-HF/DELIVER/DAPA ACT HF-TIMI 68 is in press — Berg et al., JACC Heart Fail 2026;14(8):103232, DOI 10.1016/j.jchf.2026.103232 — but no results are retrievable yet; cite existence only); (b) ≤2-month follow-up in all in-hospital trials; (c) cardiogenic shock/inotrope-dependent, and critically ill patients excluded; (d) optimal timing (first 24 h vs stabilized) still undefined — DICTATE-AHF (24-h initiation) missed its primary diuretic-efficiency endpoint (OR 0.65, 0.41–1.02, P=0.06; JACC 2024; DOI 10.1016/j.jacc.2024.02.009).
 
 ## 3. Post-MI
 
@@ -32,7 +32,7 @@ An "evidence cliff" = the boundary where randomized clinical-outcome evidence en
 
 ## 6. Kidney transplantation
 
-**Frontier:** INFINITI (CJASN online 2025-12-12; PMID 41385300): first double-blind RCT physiology data — GFR dip preserved (−4.2 mL/min/1.73 m² wk 1), natriuresis and BP effects muted, clean 12-wk safety (no rejection, stable tacrolimus).
+**Frontier:** INFINITI (CJASN 2026, online 2025-12-12; PMID 41385300): first double-blind RCT physiology data — GFR dip preserved (−4.2 mL/min/1.73 m² wk 1), natriuresis and BP effects muted, clean 12-wk safety (no rejection, stable tacrolimus).
 **Cliff:** zero randomized clinical-outcome evidence; immunosuppression-related infection concerns (genital mycotic/UTI) not excluded by a 52-patient 12-week trial. Renal Lifecycle transplant stratum (eGFR ≤45) is the pending outcome test.
 
 ## 7. ADPKD
