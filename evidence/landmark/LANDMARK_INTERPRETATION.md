@@ -22,10 +22,11 @@
 - 糖尿病患者的心血管風險必須拆成兩軌：atherosclerotic 事件（MI、中風、
   CV death）與 heart-failure／cardiorenal 事件（HHF、腎病進展）。
   Dapagliflozin 在 DECLARE 中改變的是後者。
-- 類別層級統合分析（Zelniker 2019, Lancet；三個 CVOT）顯示 SGLT2i 的
-  MACE 效益侷限於已有 ASCVD 者（HR 0.86, 0.80–0.93），無 ASCVD 者為
-  1.00（0.87–1.16, p-interaction 0.0501）——這是 class-level 統合分析的
-  次族群結果，不是 dapagliflozin 單藥的確證性結論。
+- 類別統合顯示 MACE 效益集中於 ASCVD 層（Zelniker 2019, Lancet；三個
+  CVOT：ASCVD 層 HR 0.86, 0.80–0.93；無 ASCVD 層 1.00, 0.87–1.16；
+  p-interaction 0.0501，邊際）——交互作用僅邊際顯著，且為 class-level
+  間接證據；只能陳述為「與分層假說一致」，不是已證明的次族群侷限，
+  更不是 dapagliflozin 單藥的確證性結論（methods audit O-4）。
 - 若患者的主要殘餘風險是 MI/stroke，應優先考慮具 MACE 證據的介入
   （GLP-1 RA、statin 強化等）；dapagliflozin 的角色是 HF/腎臟風險軌。
   此為治療策略推論（author interpretation），非試驗直接比較。
@@ -100,6 +101,10 @@
 - UACR <200 mg/g（非蛋白尿 CKD）、eGFR <25、透析、腎移植、ADPKD、
   免疫性腎絲球腎炎（lupus/ANCA，試驗排除 ⚠️FT）皆在試驗之外——
   DAPA-CKD 不能外推至這些族群（frontier 檔案另行處理）。
+- 美國仿單（s035, rev 06/2026, §1 Limitations of Use）已明文：polycystic
+  kidney disease 或近期使用腎臟免疫抑制治療者，不建議用於 CKD 適應症，
+  「not expected to be effective in these populations」——ADPKD 的界線
+  同時有試驗排除與 label 依據。
 
 ---
 
