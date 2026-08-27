@@ -41,25 +41,29 @@ GUIDELINE_LABEL_MATRIX.md. Status codes:
 
 | Source | Locator | Items verified | Status |
 |---|---|---|---|
-| FDA FARXIGA PI, rev 10/2024 | DailyMed setid 72ad22ae-efe6-4cd6-a302-98aaee423d69 | 4 indications (verbatim); 5→10 mg glycemic dosing; 10 mg other indications; eGFR ≥45 glycemic / ≥25 other initiation; hypersensitivity contraindication; ketoacidosis 3-day preop withhold; volume depletion; Fournier's gangrene; insulin/secretagogue hypoglycemia | ✅ VERIFIED-WEB |
+| FDA FARXIGA PI, rev 06/2026 (s035) | Local PDF evidence/safety/sources/farxiga_s035.pdf, Reference ID 5809243, highlights + §1–2 (pages 1–4); initially verified against DailyMed rev 10/2024 | 4 indications (verbatim, unchanged in s035); 5→10 mg glycemic dosing; 10 mg other indications; eGFR ≥45 glycemic / ≥25 other-indication initiation floor (§2.3); NEW s035 continuation statement below eGFR 25 (§2.3); PKD/immunosuppression limitation of use (§1); hypersensitivity contraindication; 3-day preop withhold + resume criteria (§2.4); volume depletion; Fournier's gangrene; insulin/secretagogue hypoglycemia | ✅ VERIFIED-FULLTEXT (2026-08-28) |
 | EMA/UK Forxiga SmPC | medicines.org.uk/emc/product/7607/smpc; EMA EPAR | T2D ≥10 y, HF, CKD indications; no initiation <15; limited experience <25; additional glucose-lowering if eGFR <45 | ✅ VERIFIED-WEB |
-| KDIGO 2024 CKD guideline | kdigo.org executive summary PDF | Rec 3.7.1: T2D+CKD eGFR ≥20 (1A); CKD eGFR ≥20 + ACR ≥200 or HF (1A); practice points: continue below 20; dip not a stop signal; monitoring unchanged | ✅ VERIFIED-WEB |
-| KDIGO 2024 — eGFR 20–45 + ACR <200 (2B) | guideline full text | grade 2B statement | ⚠️FT (from guideline full text/summaries; re-verify exact wording in second round) |
+| KDIGO 2024 CKD guideline §3.7 | Local full text 原始PDF/KDIGO_2024_CKD_Guideline_ExecSummary.md lines 765–780 | Recs 3.7.1/3.7.2/3.7.3 verbatim (incl. 2B statement for eGFR 20–45 + ACR <200); practice points 3.7.1–3.7.3 verbatim (continue below 20 unless not tolerated/KRT; withhold in fasting/surgery/critical illness; dip not a stop signal; monitoring unchanged). Numbering corrected: three separate recommendations, not one | ✅ VERIFIED-FULLTEXT (2026-08-28) |
 | ADA Standards of Care 2026 | Diabetes Care 2026;49(Suppl 1) §9 (S183), §11 (S246) | SGLT2i in HF irrespective of A1C; ASCVD/HF/CKD independent of A1C; glycemic benefit reduced eGFR <45 | ✅ VERIFIED-WEB |
-| ESC 2023 focused update | Eur Heart J 2023, DOI 10.1093/eurheartj/ehad195 | HFmrEF and HFpEF SGLT2i Class I A; (HFrEF I A from 2021 guideline) | ✅ VERIFIED-WEB (via ACC/PACE-CME summaries; verbatim wording second round) |
+| ESC 2023 focused update | Eur Heart J 2023, DOI 10.1093/eurheartj/ehad195; local full text 原始PDF/ESC_2023_HF_FocusedUpdate.md lines 383–441 | HFmrEF and HFpEF recommendation-table wording verbatim ("An SGLT2 inhibitor (dapagliflozin or empagliflozin) is recommended…", both I/A); guideline text confirms DELIVER benefit "driven by a reduction in worsening HF and there was no reduction in CV death" (line 386) | ✅ VERIFIED-FULLTEXT (2026-08-28) |
 | AHA/ACC/HFSA 2022 | Circulation, DOI 10.1161/CIR.0000000000001063 | HFrEF Class 1; HFmrEF 2a; HFpEF 2a | ✅ VERIFIED-WEB |
 
 ## Items pending second-round full-text verification (⚠️FT register)
 
-1. DECLARE-TIMI 58: baseline HF prevalence (~10%); amputation/fracture null results.
-2. DAPA-HF: eGFR <30 exclusion; SBP <95 exclusion; T1D exclusion.
-3. DAPA-CKD: ACEi/ARB background requirement; exclusion of T1D, polycystic
-   kidney disease, lupus nephritis, ANCA vasculitis.
-4. KDIGO 2024: exact wording of the eGFR 20–45/ACR <200 grade 2B statement.
-5. ESC 2023: verbatim recommendation table wording.
+| # | Item | Status (2026-08-28) |
+|---|---|---|
+| 1 | DECLARE-TIMI 58: baseline HF prevalence (~10%); amputation/fracture null results | ⚠️FT OPEN — NEJM primary full text not in 原始PDF/ (see MISSING_FULLTEXT.md); do not close from secondary sources |
+| 2 | DAPA-HF: eGFR <30, SBP <95, T1D exclusions | ⚠️FT OPEN — same blocker |
+| 3 | DAPA-CKD: ACEi/ARB background requirement; exclusion of T1D, PKD, lupus nephritis, ANCA vasculitis | ⚠️FT OPEN — same blocker. Note: FDA s035 §1 independently confirms the PKD/immunosuppression boundary at label level (see guideline matrix §1.1), but the trial-protocol exclusion list itself still awaits the NEJM/protocol full text |
+| 4 | KDIGO 2024: verbatim 2B statement (eGFR 20–45, ACR <200) | ✅ CLOSED — verified verbatim, 原始PDF/KDIGO_2024_CKD_Guideline_ExecSummary.md line ~779 (Recommendation 3.7.3) |
+| 5 | ESC 2023: verbatim recommendation-table wording | ✅ CLOSED — verified verbatim, 原始PDF/ESC_2023_HF_FocusedUpdate.md lines 433–441 |
+| 6 | DECLARE-TIMI 58: hierarchical-testing position of the renal composite (full text/SAP); reported as nominal significance until confirmed (methods audit P-2) | ⚠️FT OPEN — same blocker |
 
-These are design/context facts, not effect estimates; no numerical effect
-estimate in the matrix rests on an unverified source.
+Open items 1–3 and 6 are design/context facts (plus one testing-hierarchy
+status), not effect estimates; no numerical effect estimate in the matrix
+rests on an unverified source. They remain blocked pending manual upload of
+the four NEJM primaries (per Director: fetch agent session limit + broken
+Sci-Hub tooling; see MISSING_FULLTEXT.md).
 
 ## Endpoint-decomposition audit
 

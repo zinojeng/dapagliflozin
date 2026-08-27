@@ -18,9 +18,14 @@ advice (open task — assigned per Director to safety/implementation stream).
 
 ## 1. Regulatory labels
 
-### 1.1 US FDA — FARXIGA (dapagliflozin) prescribing information, revised 10/2024
-Source: DailyMed, setid 72ad22ae-efe6-4cd6-a302-98aaee423d69
-(https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=72ad22ae-efe6-4cd6-a302-98aaee423d69)
+### 1.1 US FDA — FARXIGA (dapagliflozin) prescribing information, revised 06/2026 (s035)
+Controlling source: local full PDF `evidence/safety/sources/farxiga_s035.pdf`
+(Revised: 06/2026; Reference ID 5809243) — newer than both the 原始PDF/
+FDA_Farxiga_PI_2024 extraction (Revised 06/2024) and the DailyMed record
+(rev 10/2024) first used for verification. Recent major changes in s035:
+Dosage and Administration (2.5, missed dose) and Warnings and Precautions
+(5.3), both 06/2026. All items below re-verified against s035 highlights and
+sections 1–2.
 
 Indications (verbatim from label):
 1. "To reduce the risk of sustained eGFR decline, end-stage kidney disease, cardiovascular (CV) death, and hospitalization for heart failure in adults with chronic kidney disease at risk of progression."
@@ -32,14 +37,20 @@ Dosage:
 - Glycemic control: start 5 mg once daily, may increase to 10 mg.
 - CKD / HF / T2D-with-CV-risk indications: 10 mg once daily.
 
-Renal thresholds:
-- Glycemic-control indication: initiation requires eGFR ≥45; "not recommended for use to improve glycemic control … with an eGFR less than 45 mL/min/1.73 m²" (likely ineffective).
-- All other indications: initiation not recommended below eGFR 25 mL/min/1.73 m²; no dose adjustment above that. Trials did not enroll eGFR <25 or dialysis; in DAPA-CKD and DELIVER, patients were not required to discontinue if eGFR fell below 25 or dialysis started → continuation (not initiation) below 25 is label-consistent case-by-case.
+Limitations of use (s035 §1):
+- Not recommended for glycemic control in type 1 diabetes.
+- Not recommended for glycemic control in T2D with eGFR <45 mL/min/1.73 m² ("likely to be ineffective in this setting based upon its mechanism of action").
+- "FARXIGA is not recommended for the treatment of chronic kidney disease in patients with polycystic kidney disease or patients requiring or with a recent history of immunosuppressive therapy for kidney disease. FARXIGA is not expected to be effective in these populations." → label-level support for the ADPKD/immune-GN applicability boundary drawn from DAPA-CKD exclusions.
+
+Renal thresholds (s035 §2.2–2.3):
+- Glycemic-control indication: eGFR ≥45 same dosage as normal renal function; below 45 see limitation above.
+- All other indications: eGFR ≥25 same dosage; "Initiation with FARXIGA is not recommended in patients with an eGFR less than 25 mL/min/1.73 m²."
+- Continuation (new explicit wording in s035): "If the eGFR falls below 25 mL/min/1.73 m² while receiving treatment with FARXIGA, patients may continue FARXIGA 10 mg orally once daily to reduce the risk of eGFR decline, ESKD, CV death and hHF." → continuation below 25 is now an affirmative label statement, no longer only trial-conduct framing.
 
 Contraindication: history of serious hypersensitivity to dapagliflozin/excipients.
 
 Key warnings:
-- Ketoacidosis (including euglycemic): "Withhold FARXIGA for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting."
+- Ketoacidosis (including euglycemic): s035 §2.4 "Withhold FARXIGA for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting. Resume FARXIGA when the patient is clinically stable and has resumed oral intake."
 - Volume depletion → symptomatic hypotension, acute kidney injury; assess volume status before initiation in at-risk patients.
 - Urosepsis/pyelonephritis; genital mycotic infections; necrotizing fasciitis of the perineum (Fournier's gangrene).
 - Hypoglycemia when combined with insulin/insulin secretagogue — consider lowering those agents.
@@ -57,18 +68,19 @@ Sources: EMA Forxiga EPAR page; UK eMC SmPC (https://www.medicines.org.uk/emc/pr
 ## 2. Guidelines
 
 ### 2.1 KDIGO 2024 Clinical Practice Guideline for CKD
-Source: KDIGO 2024 CKD Guideline Executive Summary (kdigo.org); Kidney Int 2024; verified via kdigo.org executive summary PDF and Guideline Central summary.
+Source: Kidney Int 2024; verified verbatim against local full text
+`原始PDF/KDIGO_2024_CKD_Guideline_ExecSummary.md` §3.7 (lines 765–780; same
+wording in `原始PDF/KDIGO_2024_CKD_Guideline.md`).
 
-Recommendation 3.7.1 (SGLT2 inhibitors):
-- T2D + CKD + eGFR ≥20: treat with SGLT2i (Grade 1A).
-- Adults with CKD and eGFR ≥20 with urine ACR ≥200 mg/g (≥20 mg/mmol), OR heart failure irrespective of albuminuria: treat with SGLT2i (Grade 1A).
-- eGFR 20–45 with urine ACR <200 mg/g: suggest SGLT2i (Grade 2B) — weaker recommendation; note this population was NOT in DAPA-CKD (which required UACR ≥200); the 2B grade rests substantially on EMPA-KIDNEY-type and pooled evidence.
+Section 3.7 (SGLT2i) — three numbered recommendations (verbatim-verified):
+- Recommendation 3.7.1: "We recommend treating patients with type 2 diabetes (T2D), CKD, and an eGFR ≥20 ml/min per 1.73 m² with an SGLT2i (1A)."
+- Recommendation 3.7.2: "We recommend treating adults with CKD with an SGLT2i for the following (1A): eGFR ≥20 ml/min per 1.73 m² with urine ACR ≥200 mg/g (≥20 mg/mmol), or heart failure, irrespective of level of albuminuria."
+- Recommendation 3.7.3: "We suggest treating adults with eGFR 20 to 45 ml/min per 1.73 m² with urine ACR <200 mg/g (<20 mg/mmol) with an SGLT2i (2B)." — weaker suggestion; this population was NOT in DAPA-CKD (which required UACR ≥200); the 2B grade rests substantially on EMPA-KIDNEY-type and pooled evidence.
 
-Practice points (3.7.1):
-- Reversible eGFR dip on initiation is expected and generally NOT an indication to discontinue.
-- Once initiated, reasonable to CONTINUE even if eGFR falls below 20, until dialysis or transplantation, unless not tolerated.
-- Withhold during prolonged fasting, surgery, or critical illness (ketosis risk).
-- No change in CKD monitoring frequency required after initiation.
+Practice points 3.7.1–3.7.3 (verbatim-verified):
+- 3.7.1: once initiated, "it is reasonable to continue an SGLT2i even if the eGFR falls below 20 ml/min per 1.73 m², unless it is not tolerated or KRT is initiated."
+- 3.7.2: "It is reasonable to withhold SGLT2i during times of prolonged fasting, surgery, or critical medical illness (when people may be at greater risk for ketosis)."
+- 3.7.3: initiation/use "does not necessitate alteration of frequency of CKD monitoring and the reversible decrease in eGFR on initiation is generally not an indication to discontinue therapy."
 
 ### 2.2 ADA Standards of Care in Diabetes — 2026
 Source: Diabetes Care 2026;49(Suppl 1) — Section 9 (Pharmacologic Approaches, diabetesjournals.org/care/article/49/Supplement_1/S183) and Section 11 (CKD and Risk Management, .../S246); verified via journal site summaries.
@@ -79,11 +91,11 @@ Source: Diabetes Care 2026;49(Suppl 1) — Section 9 (Pharmacologic Approaches, 
 - Framing note (2026 edition): cardiovascular and kidney risk reduction elevated to a co-primary treatment goal alongside glycemia.
 
 ### 2.3 ESC heart failure guidelines — 2021 + 2023 focused update
-Source: 2023 Focused Update of the 2021 ESC HF Guidelines (Eur Heart J 2023; DOI 10.1093/eurheartj/ehad195); verified via ACC "Key Points" and PACE-CME summaries.
+Source: 2023 Focused Update of the 2021 ESC HF Guidelines (Eur Heart J 2023; DOI 10.1093/eurheartj/ehad195); recommendation tables verified verbatim against local full text `原始PDF/ESC_2023_HF_FocusedUpdate.md` (lines 433–441).
 
-- HFrEF (2021): dapagliflozin or empagliflozin Class I, Level A, as one of the four foundational pillars (with ARNI/ACEi, beta-blocker, MRA).
-- HFmrEF (2023 update): SGLT2i (dapagliflozin or empagliflozin) Class I, Level A to reduce HF hospitalization or CV death.
-- HFpEF (2023 update): SGLT2i (dapagliflozin or empagliflozin) Class I, Level A to reduce HF hospitalization or CV death — evidence base DELIVER and EMPEROR-Preserved; note the endpoint named by the guideline is the composite, driven by HF events (see LANDMARK_TRIAL_MATRIX §4).
+- HFrEF (2021 guideline): dapagliflozin or empagliflozin Class I, Level A, as one of the four foundational pillars (with ARNI/ACEi, beta-blocker, MRA).
+- HFmrEF (2023 update, verbatim): "An SGLT2 inhibitor (dapagliflozin or empagliflozin) is recommended in patients with HFmrEF to reduce [the risk of HF hospitalization or CV death]" — Class I, Level A.
+- HFpEF (2023 update, verbatim): "An SGLT2 inhibitor (dapagliflozin or empagliflozin) is recommended in patients with HFpEF to reduce the [risk of HF hospitalization or CV death]" — Class I, Level A. Evidence base DELIVER and EMPEROR-Preserved; the guideline's own text notes the benefit "was driven by a reduction in worsening HF and there was no reduction in CV death" (原始PDF/ESC_2023_HF_FocusedUpdate.md line 386) — consistent with LANDMARK_TRIAL_MATRIX §4 decomposition.
 
 ### 2.4 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure
 Source: Circulation 2022; DOI 10.1161/CIR.0000000000001063; verified via hfsa.org/acc.org summaries.
@@ -98,7 +110,7 @@ Source: Circulation 2022; DOI 10.1161/CIR.0000000000001063; verified via hfsa.or
 ## 3. Cross-document tension points (for the Director / methods auditor)
 
 1. **Initiation eGFR floor**: FDA ≥25 (all non-glycemic indications) vs EMA <15 prohibited/<25 limited-experience vs KDIGO ≥20 (recommend initiate). A patient with eGFR 22 is: initiate-eligible per KDIGO, outside US label initiation, within EU "limited experience." No RCT randomized initiation at eGFR <25 except small/frontier studies — KDIGO's ≥20 rests on class evidence (EMPA-KIDNEY enrolled eGFR ≥20) rather than dapagliflozin RCT data.
-2. **Continuation below the floor**: KDIGO practice point (continue below eGFR 20 until dialysis) is more permissive than any label statement; label only notes patients in trials were not required to stop.
+2. **Continuation below the floor**: partially converged — FDA s035 (06/2026) now affirmatively states patients may continue 10 mg if eGFR falls below 25 on treatment; KDIGO practice point 3.7.1 goes further (continue below eGFR 20 unless not tolerated or KRT initiated). Residual gap: the label speaks to falling below 25, KDIGO to falling below 20; neither supports initiation in those ranges.
 3. **HFpEF class-of-recommendation gap**: ESC 2023 Class I vs AHA/ACC/HFSA 2022 Class 2a — vintage effect, not evidence conflict.
 4. **UACR <200 + eGFR 20–45**: KDIGO 2B extends beyond DAPA-CKD inclusion criteria; do not cite DAPA-CKD as direct support for non-albuminuric CKD.
 5. **Taiwan**: TFDA/NHI criteria unverified in this file (see scope note).

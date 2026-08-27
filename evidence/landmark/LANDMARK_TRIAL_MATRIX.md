@@ -56,7 +56,7 @@ Abbreviations: od = once daily; HHF = hospitalization for heart failure; MACE = 
 - Conclusion: the positive composite reflects HHF reduction only; it must NOT be described as a CV-death benefit.
 
 **Secondary outcomes**
-- Cardiorenal composite (sustained ≥40% eGFR decline to <60 mL/min/1.73 m², ESRD [dialysis ≥90 d, transplantation, or sustained eGFR <15], or renal/CV death): 4.3% vs 5.6%; HR 0.76 (0.67–0.87) — secondary outcome, prespecified.
+- Cardiorenal composite (sustained ≥40% eGFR decline to <60 mL/min/1.73 m², ESRD [dialysis ≥90 d, transplantation, or sustained eGFR <15], or renal/CV death): 4.3% vs 5.6%; HR 0.76 (0.67–0.87) — prespecified secondary outcome; treat as nominal significance until its position in the hierarchical-testing sequence is confirmed from full text/SAP (methods audit P-2).
 - Renal-specific composite (excluding CV death): HR 0.53 (0.43–0.66); p<0.0001 (Mosenzon 2019).
 - Sustained ≥40% eGFR decline to <60: 1.4% vs 2.6%; HR 0.54 (0.43–0.67) (Mosenzon 2019).
 - ESRD or renal death: 0.1% (11) vs 0.3% (27); HR 0.41 (0.20–0.82); p=0.012 (Mosenzon 2019) — note very low event counts.
@@ -221,7 +221,7 @@ Abbreviations: od = once daily; HHF = hospitalization for heart failure; MACE = 
 - MACE: HR 0.89 (0.83–0.96); benefit confined to established ASCVD (0.86 [0.80–0.93]) vs none in multiple-risk-factor-only patients (1.00 [0.87–1.16]); p-interaction 0.0501.
 - CV death/HHF: 0.77 (0.71–0.84) regardless of ASCVD or HF history.
 - Renal progression: 0.55 (0.48–0.64) regardless of ASCVD.
-- Note: class-level; underpins the "MACE only in secondary prevention, HF/renal benefit everywhere" teaching point.
+- Note: class-level; underpins the "MACE only in secondary prevention, HF/renal benefit everywhere" teaching point — but the interaction is borderline (p=0.0501) and the evidence is class-level/indirect: state as hypothesis-consistent stratification, NOT a proven subgroup confinement (methods audit O-4).
 
 ---
 
