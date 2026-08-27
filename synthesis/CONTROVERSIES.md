@@ -11,7 +11,8 @@
 ## C2. eGFR 20–25 起始地帶：KDIGO vs 仿單
 - 爭議：KDIGO 2024 建議 eGFR ≥20 起始（1A）；US label ≥25；EMA <15 禁止、<25 limited experience。
 - 關鍵事實：KDIGO ≥20 的證據主體是 EMPA-KIDNEY（類別）；dapagliflozin 無 20–25 randomized initiation 資料；DAPA-CKD stage 4 subgroup CI 跨 null。
-- 裁定措辭：「eGFR 22 的病人是 shared-decision 地帶：KDIGO 可起始（類別證據）、美國仿單不建議起始、歐盟稱經驗有限——三者都要講，並區分『起始』與『續用』（KDIGO：已用者可續用至透析）。」
+- 裁定措辭：「eGFR 22 的病人是 shared-decision 地帶：KDIGO 可起始（類別證據）、美國仿單不建議起始、歐盟稱經驗有限——三者都要講，並區分『起始』與『續用』。」
+- 續用面之更新（2026-08-28，D16）：US 仿單 rev 06/2026 §2.3 已載明**肯定性續用條款**（治療中 eGFR 降至 <25 可續用 10 mg）——「續用」已從指引 practice-point 層級升為明確 label 支持；「起始 <25」仍為仿單外。KDIGO practice point 續用至透析/移植（verbatim: "unless it is not tolerated or KRT is initiated"）。⚠️TW：NHI eGFR <15 停付，臨床續用與給付分流。
 
 ## C3. HFpEF 的價值主張：減住院還是延壽？
 - 爭議：DELIVER 單試驗 CV death NS（0.88, 0.74–1.05）；Jhund pooled CV death 0.86 顯著但效應量小。ESC 2023 Class I vs AHA/ACC/HFSA 2022 Class 2a（vintage 差異）。
