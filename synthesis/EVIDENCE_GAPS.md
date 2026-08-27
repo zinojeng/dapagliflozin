@@ -19,7 +19,7 @@
 | G11 | 非糖尿病使用者之酮體篩檢策略 | 規則缺口 | 指引未分化此族群；個案警訊 | — | 高風險情境（禁食/手術/攝食下降）主動驗血酮 |
 | G12 | GLP-1 RA/tirzepatide 併用之 euDKA 量化 | 未測（僅個案） | 個案叢集（#16–18） | — | 風險提示＋避免同日起始（case-signal 層級） |
 | G13 | 台灣給付條件 vs KDIGO 適應症落差之實務影響 | 規則缺口（⚠️TW） | NHI §2.16（114/3/1）：eGFR 25–60＋uACR 200–5000＋整合方案；eGFR<15 停付 | — | 給付 ≠ 適應症 ≠ 實證邊界，三層分開講 |
-| G14 | 2026 care-spectrum meta 之身分 | 文獻識別缺口 | 兩個候選（PMID 40884036 embedded；42067122 TSA）；無獨立 DAPA-HF+DELIVER+DAPA ACT 合併論文檢得 | — | 引用兩篇實名文獻；不得虛構第三篇（DECISION_LOG D4） |
+| G14 | 2026 care-spectrum meta 之「結果不可得」 | 文獻取得缺口（已改性質） | 論文已證實存在：Berg 等 JACC Heart Fail 2026;14(8):103232（PMID 42547169，2026-08-01 刊出），但摘要／結果未被任何資料庫收錄且付費牆——**零個效應值可引** | 全文取得後由 auditor 核入 | 可引用其存在（in press／結果未可得）；不得附加任何數字；數字仍引 PMID 40884036／42067122（class-level）（DECISION_LOG D4 修訂版） |
 
 ## 最優先追蹤（Director watch-list）
 1. **Renal Lifecycle**（NCT05374291）——同時解 G1/G2/G3；監測 ASN Kidney Week／ERA 2026–2027。
