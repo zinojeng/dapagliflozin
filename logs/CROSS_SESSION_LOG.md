@@ -107,3 +107,25 @@ Worktree isolation is now possible; all peer commits share this ancestor.
   dapagliflozin). Open: FT #1–3/#6 + auditor P-1..P-7 blocked on the four
   NEJM primary PDFs (user upload needed); Berg care-spectrum full text for
   frontier number-extraction when obtainable.
+
+## 2026-08-28 — Empagliflozin-vs-dapagliflozin comparison (Workflow run)
+
+- User directive: research empa-vs-dapa differences and clinical impact via
+  cross-session peers or workflow. All four dapa peer sessions were offline
+  (ListAgents), so the work ran as a Workflow (user-authorized): 5 parallel
+  domain research agents (trial architecture, pharmacology/labels,
+  head-to-head, guidelines/Taiwan, safety) each piped into an independent
+  citation-verification agent. 10 agents, 339 tool calls, 83 claims — 73
+  verified exactly against PubMed/Crossref/DailyMed/ClinicalTrials.gov;
+  10 flags with corrections, all applied. No substitute peer sessions created.
+- Key verified findings: no head-to-head outcome RCT (first: APPLE TREE
+  NCT06642272, n≈17,200, completes 2028-12); best observational evidence
+  (Scandinavian registry n=199k, OHDSI 10-database, Korean echo-LVEF cohort)
+  and NMAs all null; real differences = evidence-base coverage (EMPA-KIDNEY
+  non-albuminuric/eGFR≥20 vs DAPA-CKD albuminuric/≥25), label wording
+  (CV-death vs HHF claims; eGFR floors), Taiwan NHI joint entry (identical
+  criteria), cost (dapagliflozin UK patent invalidated 2025).
+- Outputs committed: evidence/comparison/EMPA_DAPA_EVIDENCE_MATRIX.md (new
+  Director-owned path, D21), synthesis/EMPA_VS_DAPA.md (Traditional Chinese,
+  red lines O-21..O-26, D22). Pending: offline methods auditor to re-audit
+  both files on relaunch.
